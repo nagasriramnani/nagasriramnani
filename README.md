@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [Data and Generative AI](Data and Generative AI)
 
-- 💬 Ask me about **Data and Visual Tools**
+- 💬 Ask me about **Data Visuals and Complex Data Problem Solving**
 
 - 📫 How to reach me **nagasriramkochetti@gmail.com**
 
