@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.neotokyo.codes/wp-content/uploads/2023/01/PlanningRoomConnected4_anim.gif" width="100%" alt="Banner">
+  <img src="https://blog.neotokyo.codes/wp-content/uploads/2023/01/PlanningRoomConnected4_anim.gif" width="80%" alt="Banner">
 </p>
 
 
