@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" width="100%" alt="Banner">
+  <img src="https://blog.neotokyo.codes/wp-content/uploads/2023/01/PlanningRoomConnected4_anim.gif" width="100%" alt="Banner">
 </p>
 
 
 <h1 align="center">Hi 👋, I'm NAGA SRI RAM KOCHETTI</h1>
 <h3 align="center">Passionate and dedicated Computer Science Graduate with an MSc in Big Data and High-Performance Computing from the University of Liverpool. I'm currently on the lookout for opportunities as a junior data analyst ,AI & ML. Aiming to leverage my programming knowledge and data analysis skills to drive business improvements and contribute to data-driven decision making.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
+<img align="right" alt="Coding" width="500" src="https://stories.wf.com/wp-content/uploads/2023/09/WF-Hackers-Story-900x506-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasriramnani&label=Profile%20views&color=0e75b6&style=flat" alt="nagasriramnani" /> </p>
 
