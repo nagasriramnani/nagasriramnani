@@ -1,4 +1,7 @@
-![Banner](https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif)
+<p align="center">
+  <img src="https://media.tenor.com/uTGE6zSoSs8AAAAC/future-gaming.gif" width="100%" alt="Banner">
+</p>
+
 
 <h1 align="center">Hi 👋, I'm NAGA SRI RAM KOCHETTI</h1>
 <h3 align="center">Passionate and dedicated Computer Science Graduate with an MSc in Big Data and High-Performance Computing from the University of Liverpool. I'm currently on the lookout for opportunities as a junior data analyst ,AI & ML. Aiming to leverage my programming knowledge and data analysis skills to drive business improvements and contribute to data-driven decision making.</h3>
