@@ -4,13 +4,13 @@
 
 
 <h1 align="center">Hi 👋, I'm NAGA SRI RAM KOCHETTI</h1>
-<h3 align="center">Passionate and dedicated Computer Science Graduate with an MSc in Big Data and High-Performance Computing from the University of Liverpool. I'm currently on the lookout for opportunities as a data Scientist| Analyst| Engineer  ,AI & ML. Aiming to leverage my programming knowledge and data analysis skills to drive business improvements and contribute to data-driven decision making.</h3>
+<h3 align="center">Passionate and dedicated Computer Science Graduate with an MSc in Big Data and High-Performance Computing from the University of Liverpool. I'm currently on the lookout for opportunities as a Data Scientist| Analyst| Engineer  ,AI & ML. Aiming to leverage my programming knowledge and data analysis skills to drive business improvements and contribute to data-driven decision making.</h3>
 
 <img align="right" alt="Coding" width="500" src="https://stories.wf.com/wp-content/uploads/2023/09/WF-Hackers-Story-900x506-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagasriramnani&label=Profile%20views&color=0e75b6&style=flat" alt="nagasriramnani" /> </p>
 
-- 🔭 I’m currently working on **Generative AI & Data Insights**
+- 🔭 I’m currently working on **Generative AI & Data Related Sector**
 
 - 🌱 I’m currently learning **Advance Data Science Techniques And Generative AI**
 
