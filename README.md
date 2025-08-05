@@ -36,3 +36,22 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nagasriramnani&show_icons=true&locale=en" alt="nagasriramnani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nagasriramnani&" alt="nagasriramnani" /></p>
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/naga-sri-ram-kochetti-72a464189" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:nagasriramkochetti@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/RexDrw" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/nagasriramnani">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
