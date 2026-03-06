@@ -20,6 +20,11 @@
   <img src="https://img.shields.io/badge/LeetCode-RexDrw-FFA116?style=flat&logo=leetcode&labelColor=0D1117" />
 </a>
 
+<p align="center">
+  <img src="https://blog.neotokyo.codes/wp-content/uploads/2023/01/PlanningRoomConnected4_anim.gif" width="80%" alt="Banner">
+</p>
+
+
 <br/><br/>
 
 *I build intelligent systems that reason, scale, and perform under pressure.*  
