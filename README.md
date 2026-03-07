@@ -1,8 +1,8 @@
 <!-- 
   ████████████████████████████████████████████████████████████████
-  █  NAGA SRI RAM KOCHETTI — GITHUB PROFILE TERMINAL v1.0      █
-  █  Aesthetic: 1980s Green Phosphor CRT Monitor                █
-  █  All images tested against GitHub's markdown renderer       █
+  █  NAGA SRI RAM KOCHETTI — GITHUB PROFILE TERMINAL v1.0         █
+  █  Aesthetic: 1980s Green Phosphor CRT Monitor                  █
+  █  All images tested against GitHub's markdown renderer         █
   ████████████████████████████████████████████████████████████████
 -->
 
@@ -11,7 +11,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:003300,100:00ff41&height=150&section=header&text=&fontSize=0" width="100%" />
 
 <a href="https://www.nagasriram.com">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+ssh+naga%40nexus.ai;%3E+CONNECTION+ESTABLISHED+✓;%3E+WELCOME+TO+THE+MAINFRAME" alt="Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=400&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=700&height=70&lines=%24+ssh+naga_sri_ram%40nexus.ai;%3E+CONNECTION+ESTABLISHED+✓;%3E+WELCOME+TO+THE+MAINFRAME" alt="Terminal Header" />
 </a>
 
 <br/>
@@ -19,12 +19,19 @@
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   ███╗   ██╗ █████╗  ██████╗  █████╗     ███████╗██████╗            │
-│   ████╗  ██║██╔══██╗██╔════╝ ██╔══██╗    ██╔════╝██╔══██╗           │
-│   ██╔██╗ ██║███████║██║  ███╗███████║    ███████╗██████╔╝           │
-│   ██║╚██╗██║██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██╗           │
-│   ██║ ╚████║██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║           │
-│   ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝           │
+│   ███╗   ██╗ █████╗  ██████╗  █████╗     ███████╗██████╗ ██╗        │
+│   ████╗  ██║██╔══██╗██╔════╝ ██╔══██╗    ██╔════╝██╔══██╗██║        │
+│   ██╔██╗ ██║███████║██║  ███╗███████║    ███████╗██████╔╝██║        │
+│   ██║╚██╗██║██╔══██║██║   ██║██╔══██║    ╚════██║██╔══██╗██║        │
+│   ██║ ╚████║██║  ██║╚██████╔╝██║  ██║    ███████║██║  ██║██║        │
+│   ╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝        │
+│                                                                      │
+│   ██████╗ ██████╗ ██╗    ██████╗  █████╗ ███╗   ███╗                │
+│   ██╔══██╗██╔══██╗██║    ██╔══██╗██╔══██╗████╗ ████║                │
+│   ██████╔╝███████║██║    ██████╔╝███████║██╔████╔██║                │
+│   ██╔══██╗██╔══██║██║    ██╔══██╗██╔══██║██║╚██╔╝██║                │
+│   ██║  ██║██║  ██║██║    ██║  ██║██║  ██║██║ ╚═╝ ██║                │
+│   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝                │
 │                                                                      │
 │              AI SYSTEMS ARCHITECT  ·  LONDON, UK                     │
 │                                                                      │
@@ -73,7 +80,7 @@
 │   under pressure. Turning research papers into production       │
 │   systems — that's my thing."                                   │
 │                                                                 │
-│                              — naga_sri_ram, /etc/motd          │
+│                              — Naga Sri Ram, /etc/motd          │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -122,14 +129,14 @@ SCANNING INSTALLED PACKAGES...
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                 ║
 ║  LANGUAGES        Python · JavaScript · TypeScript · SQL · Bash ║
-║  AI / ML          LangChain · LangGraph · RAG · ArcFace · FAISS║
-║  DEEP LEARNING    TensorFlow · PyTorch · Keras · OpenCV · CNNs ║
-║  CLOUD            Azure (Synapse/ML) · AWS (S3/λ) · GCP        ║
-║  BACKEND          FastAPI · Node.js · REST · WebRTC · WebXR     ║
+║  AI / ML          LangChain · LangGraph · RAG · ArcFace · FAISS ║
+║  DEEP LEARNING    TensorFlow · PyTorch · Keras · OpenCV · CNNs  ║
+║  CLOUD            Azure (Synapse/ML) · AWS (S3/λ) · GCP         ║
+║  BACKEND          FastAPI · Node.js · REST · WebRTC · WebXR      ║
 ║  DATA             Spark · Kafka · Airflow · dbt · Pandas · NumPy║
-║  DATABASES        PostgreSQL · MongoDB · Redis · Elasticsearch  ║
-║  DEVOPS           Docker · Kubernetes · Terraform · CI/CD · Helm║
-║  GOVERNANCE       Enterprise AI Policy · Data Security          ║
+║  DATABASES        PostgreSQL · MongoDB · Redis · Elasticsearch   ║
+║  DEVOPS           Docker · Kubernetes · Terraform · CI/CD · Helm ║
+║  GOVERNANCE       Enterprise AI Policy · Data Security           ║
 ║                                                                 ║
 ║  TOTAL PACKAGES: 40+                    STATUS: ALL OPERATIONAL ║
 ╚══════════════════════════════════════════════════════════════════╝
@@ -205,7 +212,7 @@ A developer-focused interactive **3D metaverse** that transforms GitHub profiles
 │ STATUS:  █████████████░  RES. │
 │ CLASS:   EPIC                 │
 │ DATASET: 3,000 samples        │
-│ MODELS:  3 SR × 3 degrad.    │
+│ MODELS:  3 SR × 3 degrad.     │
 └───────────────────────────────┘
 ```
 
@@ -225,7 +232,7 @@ Evaluating **facial identity preservation** through super-resolution with **ArcF
 │ STATUS:  ████████░░░  BUILD  │
 │ CLASS:   EPIC                 │
 │ ARCH:    Swarm Agents         │
-│ OPT:     Bio-Inspired        │
+│ OPT:     Bio-Inspired         │
 └───────────────────────────────┘
 ```
 
@@ -262,11 +269,11 @@ AI-driven financial insights with **real-time U.S. Treasury API** integration an
 ```
 naga_sri_ram@nexus:~$ history | grep completed_projects
 
-  [2024]  Digital Twin for Autonomous Driving ─── D2RL + CARLA (MSc Dissertation)
-  [2024]  Wastewater Analytics Hybrid-AI ──────── Supervised + Anomaly Detection
-  [2024]  Azure AI Data Platform (DWP) ────────── Enterprise Gov AI Infrastructure
-  [2025]  LLM RAG APIs (Pareto.AI) ────────────── Production Vector Search
-  [2022]  Human Action Prediction (OpenPose) ──── 3D-CNNs + LSTMs (B.Tech Thesis)
+    Digital Twin for Autonomous Driving ─── D2RL + CARLA (MSc Dissertation)
+    Wastewater Analytics Hybrid-AI ──────── Supervised + Anomaly Detection
+    Azure AI Data Platform (DWP) ────────── Enterprise Gov AI Infrastructure
+    LLM RAG APIs (Pareto.AI) ────────────── Production Vector Search
+    Human Action Prediction (OpenPose) ──── 3D-CNNs + LSTMs (B.Tech Thesis)
 ```
 
 </details>
@@ -316,7 +323,7 @@ naga_sri_ram@nexus:~$ neofetch
   ██░░░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░██  DE:     VS Code + Jupyter
   ██░░░░░░░░░░░░██    ██░░░░░░░░░░░░░░░░██  WM:     Azure + Docker + K8s
   ██░░░░░░░░░░██        ██░░░░░░░░░░░░░░██  CPU:    LangChain + PyTorch + TF
-  ██░░░░░░░░░░██        ██░░░░░░░░░░░░░░██  GPU:    RAG + FAISS + ArcFace
+  ██░░░░░░░░░░██        ██████████████████  GPU:    RAG + FAISS + ArcFace
   ██░░░░░░░░░░░░██    ██░░░░░░░░░░░░░░░░██  Memory: 7+ years experience
   ██░░░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░██  Disk:   40+ projects shipped
     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██    Uptime: Since 2018
@@ -368,20 +375,20 @@ naga_sri_ram@nexus:~$ neofetch
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗│
-│  ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝│
-│  ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║   │
-│  ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║   │
-│  ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║   │
-│   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝   │
+│   ██████╗ ██████╗ ███╗   ██╗███╗   ██╗███████╗ ██████╗████████╗ │
+│  ██╔════╝██╔═══██╗████╗  ██║████╗  ██║██╔════╝██╔════╝╚══██╔══╝ │
+│  ██║     ██║   ██║██╔██╗ ██║██╔██╗ ██║█████╗  ██║        ██║    │
+│  ██║     ██║   ██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║        ██║    │
+│  ╚██████╗╚██████╔╝██║ ╚████║██║ ╚████║███████╗╚██████╗   ██║    │
+│   ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═╝    │
 │                                                                 │
 │   Open to co-building, collaborating, or just talking about     │
 │   AI systems that push boundaries.                              │
 │                                                                 │
 │   > SEEKING:                                                    │
-│     • PhD opportunities in AI/ML                                │
-│     • Senior / Advanced AI Engineer roles                       │
-│     • Open-source collaborators                                 │
+│     -  PhD opportunities in AI/ML                                │
+│     -  Senior / Advanced AI Engineer roles                       │
+│     -  Open-source collaborators                                 │
 │                                                                 │
 │   > DOMAINS:                                                    │
 │     Gov AI · Healthcare · Enterprise · Self-Evolving Systems    │
@@ -426,6 +433,6 @@ naga_sri_ram@nexus:~$ neofetch
   ┌─────────────────────────────────────────────────────────────┐
   │  > You found the source code. +500 XP.                     │
   │  > echo "Hire me" | mail nagasriramkochetti@gmail.com      │
-  │  > https://www.nagasriram.com                               │
+  │  > https://www.nagasriram.com                              │
   └─────────────────────────────────────────────────────────────┘
 -->
