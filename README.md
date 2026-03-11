@@ -120,20 +120,20 @@ naga_sri_ram@nexus:~$ cat /proc/skills
 SCANNING INSTALLED PACKAGES...
 
 ╔══════════════════════════════════════════════════════════════════╗
-║                     CORE TECHNOLOGY STACK                       ║
+║                     CORE TECHNOLOGY STACK                        ║
 ╠══════════════════════════════════════════════════════════════════╣
-║                                                                 ║
-║  LANGUAGES        Python · JavaScript · TypeScript · SQL · Bash ║
-║  AI / ML          LangChain · LangGraph · RAG · ArcFace · FAISS ║
-║  DEEP LEARNING    TensorFlow · PyTorch · Keras · OpenCV · CNNs  ║
-║  CLOUD            Azure (Synapse/ML) · AWS (S3/λ) · GCP         ║
+║                                                                  ║
+║  LANGUAGES        Python · JavaScript · TypeScript · SQL · Bash  ║
+║  AI / ML          LangChain · LangGraph · RAG · ArcFace · FAISS  ║
+║  DEEP LEARNING    TensorFlow · PyTorch · Keras · OpenCV · CNNs   ║
+║  CLOUD            Azure (Synapse/ML) · AWS (S3/λ) · GCP          ║
 ║  BACKEND          FastAPI · Node.js · REST · WebRTC · WebXR      ║
-║  DATA             Spark · Kafka · Airflow · dbt · Pandas · NumPy║
+║  DATA             Spark · Kafka · Airflow · dbt · Pandas · NumPy ║
 ║  DATABASES        PostgreSQL · MongoDB · Redis · Elasticsearch   ║
 ║  DEVOPS           Docker · Kubernetes · Terraform · CI/CD · Helm ║
 ║  GOVERNANCE       Enterprise AI Policy · Data Security           ║
-║                                                                 ║
-║  TOTAL PACKAGES: 40+                    STATUS: ALL OPERATIONAL ║
+║                                                                  ║
+║  TOTAL PACKAGES: 40+                    STATUS: ALL OPERATIONAL  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -183,9 +183,9 @@ naga_sri_ram@nexus:~$ ps aux | grep projects
 <td width="50%" valign="top">
 
 ```
-┌─── PROCESS 2701 ──────────────┐
-│ 🌌 DevVerse                   │
-│ ──────────────────────────── │
+┌─── PROCESS 2701───────────────┐
+│ 🌌 DevVerse.                  │
+│ ────────────────────────────  │  
 │ STATUS:  ██████████░░  ACTIVE │
 │ CLASS:   LEGENDARY            │
 │ SCOPE:   10 AI roles          │
@@ -201,9 +201,9 @@ A developer-focused interactive **3D metaverse** that transforms GitHub profiles
 <td width="50%" valign="top">
 
 ```
-┌─── PROCESS 2702 ──────────────┐
+┌─── PROCESS 2702 ───────────────┐
 │ 🧬 Face SR Identity           │
-│ ──────────────────────────── │
+│ ────────────────────────────  │
 │ STATUS:  █████████████░  RES. │
 │ CLASS:   EPIC                 │
 │ DATASET: 3,000 samples        │
@@ -222,9 +222,9 @@ Evaluating **facial identity preservation** through super-resolution with **ArcF
 
 ```
 ┌─── PROCESS 2703 ──────────────┐
-│ 👑 QueenAI Enterprise         │
-│ ──────────────────────────── │
-│ STATUS:  ████████░░░  BUILD  │
+│ 👑 QueenAI Enterprise        │
+│ ────────────────────────────  │
+│ STATUS:  ████████░░░  BUILD   │
 │ CLASS:   EPIC                 │
 │ ARCH:    Swarm Agents         │
 │ OPT:     Bio-Inspired         │
@@ -241,8 +241,8 @@ Multi-agent AI customer system using **LangGraph** and **bio-inspired optimizati
 ```
 ┌─── PROCESS 2704 ──────────────┐
 │ 💰 Currency Intel V2          │
-│ ──────────────────────────── │
-│ STATUS:  ████████████  DONE  │
+│ ────────────────────────────  │
+│ STATUS:  ████████████  DONE   │
 │ CLASS:   SHIPPED              │
 │ API:     US Treasury          │
 │ TYPE:    Financial AI         │
@@ -309,24 +309,40 @@ timeline
 ```
 naga_sri_ram@nexus:~$ neofetch
 
-              ██████████████████              naga_sri_ram@nexus
-          ████░░░░░░░░░░░░░░░░████          ──────────────────────
-        ██░░░░░░░░░░░░░░░░░░░░░░░░██        OS:     AI Systems Architect
-      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░██      Host:   London, United Kingdom
-    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██    Kernel: MSc Big Data & HPC
-    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██    Shell:  Python / TypeScript / Bash
-  ██░░░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░██  DE:     VS Code + Jupyter
-  ██░░░░░░░░░░░░██    ██░░░░░░░░░░░░░░░░██  WM:     Azure + Docker + K8s
-  ██░░░░░░░░░░██        ██░░░░░░░░░░░░░░██  CPU:    LangChain + PyTorch + TF
-  ██░░░░░░░░░░██        ██████████████████  GPU:    RAG + FAISS + ArcFace
-  ██░░░░░░░░░░░░██    ██░░░░░░░░░░░░░░░░██  Memory: 7+ years experience
-  ██░░░░░░░░░░░░░░████░░░░░░░░░░░░░░░░░░██  Disk:   40+ projects shipped
-    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██    Uptime: Since 2018
-    ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░██
-      ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░██      ██ ██ ██ ██ ██ ██ ██ ██
-        ██░░░░░░░░░░░░░░░░░░░░░░░░██
-          ████░░░░░░░░░░░░░░░░████
-              ██████████████████
+           ░░▒▒▓▓██▓▓▒▒░░                    naga_sri_ram@nexus
+         ░▒▓█████████████▓▒░                ──────────────────────
+        ░▒▓███▓▒░░   ░░▒▓███▓▒░             OS:     AI Systems Architect
+       ░▒▓███▒░  ░▒▓▓▒░  ░▒███▓▒░           Host:   London, United Kingdom
+      ░▒▓███▒░ ░▒▓████▓▒░ ░▒███▓▒░          Kernel: MSc Big Data & HPC
+      ░▒████░ ░▓██░  ░██▓░ ░████▒░          Shell:  Python / TypeScript / Bash
+      ░▒████░ ░███    ███░ ░████▒░          DE:     VS Code + Jupyter
+      ░▒████░ ░▒▓██▓▓██▓▒░ ░████▒░          WM:     Azure + Docker + K8s
+      ░▒▓███▒░  ░░▒▓▒░░   ░▒███▓▒░          CPU:    LangChain + PyTorch + TF
+       ░▒▓███▓▒░  ░▓▓░  ░▒▓███▓▒░           GPU:    RAG + FAISS + ArcFace
+        ░▒▓███████▓▓▓▓████████▓▒░           Memory: 7+ years experience
+         ░░▒▒▓▓▓███████▓▓▓▒▒░░             Disk:   40+ projects shipped
+       ░▒▓▓███▓▒░       ░▒▓███▓▓▒░          Uptime: Since 2018
+      ░▒▓████▓░  ░▒▓▓▓▒░  ░▓████▓▒░
+     ░▒▓█████░ ░▒▓█████▓▒░ ░█████▓▒░        ■■ ■■ ■■ ■■ ■■ ■■ ■■ ■■
+     ░▒▓█████░ ░▓█▓░░░▓█▓░ ░█████▓▒░
+     ░▒▓█████░ ░▓██████▓▒░ ░░█████▓▒░
+     ░▒▓█████▓▒░░▒▓▓▓▒░░░▒▓▓█████▓▒░
+    ░▒▓████████▓▓▒▒░░▒▒▓▓████████▓▒░
+   ░▒▓██▓▒░  ░░▒▒▓▓██▓▓▒▒░░  ░▒▓██▓▒░
+   ░▒▓██░ ░▒▓████████████▓▒░  ░██▓▒░
+   ░▒▓██░ ░▓██▓▒░    ░▒▓██▓░  ░██▓▒░
+   ░▒▓██▓░  ░░          ░░  ░▓██▓▒░
+    ░▒▓████▓▓▒░░      ░░▒▓▓████▓▒░
+      ░░▒▒▓▓████▓▓▓▓▓████▓▓▒▒░░
+           ░▒▓▓██▓██▓██▓▓▒░
+          ░▒▓███▒░   ░▒███▓▒░
+         ░▒▓███▒░     ░▒███▓▒░
+        ░▒▓████░       ░████▓▒░
+       ░▒▓█████░       ░█████▓▒░
+      ░▒▓██████░       ░██████▓▒░
+     ░░▒▒▒▒▒▒▒░         ░▒▒▒▒▒▒░░
+
+
 ```
 
 <br/>
