@@ -306,42 +306,27 @@ timeline
 
 <div align="center">
 
+```
 
 naga_sri_ram@nexus:~$ neofetch
 
-           ░░▒▒▓▓██▓▓▒▒░░                    naga_sri_ram@nexus
-         ░▒▓█████████████▓▒░                ──────────────────────
-        ░▒▓███▓▒░░   ░░▒▓███▓▒░             OS:     AI Systems Architect
-       ░▒▓███▒░  ░▒▓▓▒░  ░▒███▓▒░           Host:   London, United Kingdom
-      ░▒▓███▒░ ░▒▓████▓▒░ ░▒███▓▒░          Kernel: MSc Big Data & HPC
-      ░▒████░ ░▓██░  ░██▓░ ░████▒░          Shell:  Python / TypeScript / Bash
-      ░▒████░ ░███    ███░ ░████▒░          DE:     VS Code + Jupyter
-      ░▒████░ ░▒▓██▓▓██▓▒░ ░████▒░          WM:     Azure + Docker + K8s
-      ░▒▓███▒░  ░░▒▓▒░░   ░▒███▓▒░          CPU:    LangChain + PyTorch + TF
-       ░▒▓███▓▒░  ░▓▓░  ░▒▓███▓▒░           GPU:    RAG + FAISS + ArcFace
-        ░▒▓███████▓▓▓▓████████▓▒░           Memory: 7+ years experience
-         ░░▒▒▓▓▓███████▓▓▓▒▒░░             Disk:   40+ projects shipped
-       ░▒▓▓███▓▒░       ░▒▓███▓▓▒░          Uptime: Since 2018
-      ░▒▓████▓░  ░▒▓▓▓▒░  ░▓████▓▒░
-     ░▒▓█████░ ░▒▓█████▓▒░ ░█████▓▒░        ■■ ■■ ■■ ■■ ■■ ■■ ■■ ■■
-     ░▒▓█████░ ░▓█▓░░░▓█▓░ ░█████▓▒░
-     ░▒▓█████░ ░▓██████▓▒░ ░░█████▓▒░
-     ░▒▓█████▓▒░░▒▓▓▓▒░░░▒▓▓█████▓▒░
-    ░▒▓████████▓▓▒▒░░▒▒▓▓████████▓▒░
-   ░▒▓██▓▒░  ░░▒▒▓▓██▓▓▒▒░░  ░▒▓██▓▒░
-   ░▒▓██░ ░▒▓████████████▓▒░  ░██▓▒░
-   ░▒▓██░ ░▓██▓▒░    ░▒▓██▓░  ░██▓▒░
-   ░▒▓██▓░  ░░          ░░  ░▓██▓▒░
-    ░▒▓████▓▓▒░░      ░░▒▓▓████▓▒░
-      ░░▒▒▓▓████▓▓▓▓▓████▓▓▒▒░░
-           ░▒▓▓██▓██▓██▓▓▒░
-          ░▒▓███▒░   ░▒███▓▒░
-         ░▒▓███▒░     ░▒███▓▒░
-        ░▒▓████░       ░████▓▒░
-       ░▒▓█████░       ░█████▓▒░
-      ░▒▓██████░       ░██████▓▒░
-     ░░▒▒▒▒▒▒▒░         ░▒▒▒▒▒▒░░
+         .-------.                   naga_sri_ram@nexus
+        /  _   _  \                 ──────────────────────
+       | (.) (.)  |                 OS:     AI Systems Architect
+       |     J    |                 Host:   London, United Kingdom
+       |  '---'   |                 Kernel: MSc Big Data & HPC
+        \         /                 Shell:  Python / TypeScript / Bash
+    .----`-------'----.             DE:     VS Code + Jupyter
+   /  __|_________|__  \            WM:     Azure + Docker + K8s
+  /  /   |       |   \  \           CPU:    LangChain + PyTorch + TF
+ /  / /\ |       | /\ \  \          GPU:    RAG + FAISS + ArcFace
+|  | /  \|       |/  \ |  |        Memory: 7+ years experience
+|  |/    |       |    \|  |        Disk:   40+ projects shipped
+|__|_____|_______|_____|__|        Uptime: Since 2018
 
+                                    ■■ ■■ ■■ ■■ ■■ ■■ ■■ ■■
+
+```
 
 
 
