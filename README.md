@@ -306,7 +306,7 @@ timeline
 
 <div align="center">
 
-```
+
 naga_sri_ram@nexus:~$ neofetch
 
            ░░▒▒▓▓██▓▓▒▒░░                    naga_sri_ram@nexus
@@ -343,7 +343,7 @@ naga_sri_ram@nexus:~$ neofetch
      ░░▒▒▒▒▒▒▒░         ░▒▒▒▒▒▒░░
 
 
-```
+
 
 <br/>
 
